@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tithes no gospell ordinance, nor ever instituted of God for the maintenance of a gospell ministry but ended, with the Leviticall preisthood [sic], and abollished by the offering up of Christ proved by Scripture. As also, the Levitticall and scripturall tythers with the vnscripturall tythers compared; and the moderation of the one, and insatiable avarice of the other manifested. By William Morris.</title>
+            <author>Morris, William, d. 1680.</author>
+         </titleStmt>
+         <extent>Approx. 36KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27030</idno><idno type="EEBO-CITATION">99833158</idno>
+  <idno type="VID">207865</idno>
+  <idno type="EEBO-PROQUEST">2240947695</idno>
+  
+            <idno type="STC">Wing M2813A</idno>
+            <idno type="PROQUEST">99833158</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833158e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27030)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207865)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2191:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tithes no gospell ordinance, nor ever instituted of God for the maintenance of a gospell ministry but ended, with the Leviticall preisthood [sic], and abollished by the offering up of Christ proved by Scripture. As also, the Levitticall and scripturall tythers with the vnscripturall tythers compared; and the moderation of the one, and insatiable avarice of the other manifested. By William Morris.</title>
+                  <author>Morris, William, d. 1680.</author>
+               </titleStmt>
+               <extent>[1], 2, [1] 3-17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printd in the yeare,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Gathered in 2's.</note>
+                  <note>With errata at end of text.</note>
+                  <note>Text and pagination continuous despite pagination.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tithes --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207865:1"/>
+            <pb facs="tcp:207865:1"/>
+            <p>TITHES <hi>No Gospell Ordinance,</hi> Nor ever Instituted of God for the <hi>Maintenance of A Gospell Ministry;</hi> But ended, With the Leviticall Preisthood, and <hi>Abollished by the Offering Ʋp of Christ</hi> Proved by Scripture.</p>
+            <p>
+               <hi>As also,</hi> The Levitticall and Scripturall Tythers <hi>With the Vnscripturall Tythers Compared;</hi> And the Moderation of the one, and <hi>Insatiable avarice of the other</hi> Manifested.</p>
+            <p>
+               <hi>By William Morris</hi>
+            </p>
+            <p>Printd in the yeare 1680.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:207865:2"/>
+            <pb n="2" facs="tcp:207865:2"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat which I have to R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>commend to thee in thy perusall of this little Booke, is <hi>Candor</hi> in Reading and <hi>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ligence</hi> in search<g ref="char:EOLhyphen"/>ing the Scriptures I have opened Remember the Title of <hi>Nobi<g ref="char:EOLhyphen"/>llity</hi> wherewith the Apostle dignified the <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ans Actes 17.11. vers. They (saith he) were more Noble then those in</hi> Thessa<g ref="char:EOLhyphen"/>lonica, <hi>in that they received the word with all readiness of minde &amp; searched the Scriptures daylie whether those things were so</hi>— And the same I recommend to <hi>thee and that thou Judge</hi> nothing be<g ref="char:EOLhyphen"/>fore the time.</p>
+            <p>For I am not Ʋnse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sible but that a worke of this Nature will be obnox<g ref="char:EOLhyphen"/>iouse to <hi>Censure,</hi> But what <hi>truth</hi> (though never so manifest) is not vnpleaseing to some or other, as this in all likelyhood will be too few or none but A <hi>Covetouse and decimateing Clergie,</hi> whose persons I hate not (though I thus speake,) But in my heart retaine a fitting and due respect for them as men; well knowing they have a portion of Gods heavenly gift, and divine Grace, aswell as I and others; (did they not abuse it, and keep it in <hi>bondage, by averice and lucre,</hi> (the maine prop <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Pillar of their Calling and Function, which are the things I vtterly deny and testifie against. And if there b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of them that hold it their duty to speake that which they think to be truth impartially as the worke of their <hi>Ministry,</hi> (though not vnhired and well payd) let them not think amisse of others who think the same no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> less their dutie by the <hi>generall Office of Christianity</hi> to speak truth more <hi>Impartially; freely,</hi> and without payments.</p>
+            <p>Therefore try all things, and hould fast that which is good which, as it will adde to thy knowledge in the things of God so it will answer the end and designe of</p>
+            <closer>
+               <signed>Thy Freind <hi>W. M.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207865:3"/>
+            <pb n="3" facs="tcp:207865:3"/>
+            <head>Tythes noe Gospell Ordinance <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lord Almighty, the God of <hi>Abraham</hi> and of his seed, and grand Proprietor of the Land of <hi>Canan,</hi> pursuant to his promise made to his faithfull Servant in the plain of <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reah,</hi> Saying <hi>Vnto thy seed will I give this Land</hi> Ge<g ref="char:EOLhyphen"/>nesis 12.7. After the Expiration of about six hundred and fifty y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ares brought <hi>Abrahams</hi> seed into possession of the Land of pro<g ref="char:EOLhyphen"/>mise, and made <hi>Eleaven</hi> Tribes of twelve freeholders, reserving only Tythes holy to himself as <hi>Moses</hi> witnesseth <hi>Lev:</hi> 27.30. in these words <hi>And all the Tith of the Land, whether of the seed of the land or of the fruite of the trees, it is the Lords, it is holy unto the Lord.</hi> And vers the 32 concerning the Tith of the Heard, and of the Flock, even <hi>whatsoever passeth vnder the Rodd, the tenth shall be holy vnto the Lord.</hi> And <hi>Deut:</hi> 14.22. <hi>Thou shalt truly tith all the en<g ref="char:EOLhyphen"/>crease of thy seed that the feild bringeth forth yeare by yeare</hi> &amp;c.</p>
+            <p>This was tithing by divine Institution &amp; by Gods Ordinance, But (allwayes to be remembred) vnder the Ministration of the old Covenant, the Mosaick law (which made nothing perfect) and the Leviticall Pristhood (which could not continue by rea<g ref="char:EOLhyphen"/>son of Death) and this being a changeable Preisthood <hi>there is a necessitie also of a change of the law,</hi> as saith the Apostle <hi>Heb:</hi> 7.12. But it being the Grand objection of the Clergie of this Age (and many others upon their account) That forasmuch as God once Ordained and Commanded the payment of tith, it still re<g ref="char:EOLhyphen"/>mains in force as a perpetuall binding law to all Generations; <hi>It was once law<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull</hi> (say they) <hi>and never vnlawfull; And therefore tithes as properly and vndenyablie belonges to the Clergie of this Age, and these Nations now, as ever it did to the Levitecall Preisthood vnder the first Covenant.</hi>
+            </p>
+            <p>And vpon this ground I my selfe have severall times (in times
+<pb n="4" facs="tcp:207865:4"/> past) been impleaded in the Consistory Court (so called) for desireing the payment of tith, and know not how soone I may be so againe for the same <hi>cause,</hi> which <hi>CAUSE,</hi> I doe preferr be<g ref="char:EOLhyphen"/>fore all earthly Relations or considerations whatsoever. I have therefore (to the end I may give some account of my Testimo<g ref="char:EOLhyphen"/>nie herein, and in order to the satisfaction of some that have desired the same.</p>
+            <p>First. Dilligently examined the paying and receiving Tith vnder the <hi>Mosaicke</hi> law, and duly enquired into the <hi>grounds</hi> and <hi>reasons</hi> thereof, together with other needfull circumstances as well relateing to the <hi>time</hi> and <hi>place,</hi> the <hi>persons</hi> concerned in the <hi>paying</hi> and <hi>receiveing</hi> of it. And whether the Command of God which was given to the <hi>Israellites</hi> vnder the old Covenant be of force and binding vpon beleivers vnder the new Covenant Yea or nay.</p>
+            <p>Secondly. I have compared the tithing of the Clergie of this age and Generation, with the Leviticall tithing (vpon which they ground their practice) and shewed wherein it diff<g ref="char:EOLhyphen"/>ereth.</p>
+            <p>And Thirdly, have shewed how <hi>burdensome</hi> and <hi>oppressive</hi> the tything of the Clergie of this age is, beyond what was the practice of the <hi>Levites</hi> in their dayes; and inconsistant with the rules of Common equity and principles of pure Reason.</p>
+            <p>First. As to the first, I referrence to the <hi>Leviticall</hi> tything, I have considered the <hi>extent</hi> of Gods <hi>Command</hi> wherevpon the payment of tythes was grounded.</p>
+            <p>Secondly. The <hi>extent</hi> of Gods <hi>donation</hi> or graunt whereon the takeing or receiveing tyth was also grounded.</p>
+            <p>Thirdly. The equall Just and reasonable <hi>consideration</hi> where<g ref="char:EOLhyphen"/>vpon both the Command and graunt were grounded.</p>
+            <p>Of these in their purposed order, &amp; first of the first Name<g ref="char:EOLhyphen"/>ly of the <hi>extent</hi> of Gods Command, wherevpon the payment of tithes was grounded, and of that, first as it related to the <hi>tyme when</hi> and <hi>how long,</hi> Secondly, the <hi>place</hi> where, Thirdly the
+<pb n="5" facs="tcp:207865:4"/>
+               <hi>Persons</hi> whom concerned in the payment thereof.</p>
+            <p>First, I say as it hath relation to the <hi>time when,</hi> and that I finde to be only during the Continuance of the first and old Co<g ref="char:EOLhyphen"/>venant, the first and changable Preisthood and the first Taber<g ref="char:EOLhyphen"/>nacle, which Tabernacle was a figure for the time then present, and the service whereof as the Apostle witnesseth <hi>Heh:</hi> 9.9. 10th, <hi>Stood only in meats and drinks and divers washings and Car<g ref="char:EOLhyphen"/>nall Ordinances w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich were imposed till the time of Reformation</hi> &amp;c. And dureing that time, vntill the Change of that Preisthood (which could not continue by reason of death) And vntill the perfection was obtained by the bringing in of a better hope which by the law could not be obtained (for the law made no<g ref="char:EOLhyphen"/>thing perfect but the bringing in of a better hope did) <hi>Heb</hi> 7. v. 19. And vntill the appearance of that everlasting and vnchang<g ref="char:EOLhyphen"/>able High-Preist Christ Iesus the Righteous, who to put away Sinne by the Sacrifice of himselfe offered himselfe once for all, and by that one offering perfected forever those that are Sanct<g ref="char:EOLhyphen"/>ified. I say before and vntill the appearance of this High-Preist and the offering of this Sacrifice, the Command for tith<g ref="char:EOLhyphen"/>ing as well as for offering Sacrifices vpon the Altar) was in force and noe longer.</p>
+            <p>And this as to point of <hi>time</hi> was the vtmost <hi>extent</hi> of that Command! For the same that put an end to the Service of the first Tabernacle, and the work of the first Preist-hood &amp; tooke it cleane away, did also <hi>abolish</hi> and take away the wages that was appointed for that worke.</p>
+            <p>Secondly, As the Command for tithing relates to <hi>place▪</hi> I doe not find either by writing or tradition amongst the <hi>Jews</hi> that it extended to any other <hi>place</hi> then to <hi>the Land of Canaan only,</hi> and it is very manifest by <hi>Lev:</hi> 27. vers the 30. and 32. and <hi>Deut:</hi> 14. <hi>v,</hi> 22. and other Scriptures That the vtmost <hi>extent</hi> of the Command was circumscribed within the Inheritance of the twelve Tribes.</p>
+            <p>Thirdly, The <hi>extent</hi> of the Command as it relates to <hi>persons</hi>
+               <pb n="6" facs="tcp:207865:5"/> concerned in paying tith, I find to be limitted to <hi>the Children of Israell, the Jewish nationall Church only,</hi> and not to concerne any other Nation, Church or people in the world. For this is still the Phrase of Scripture concerning Gods Laws, Commands &amp; Institutions, Namely, <hi>The Lord spake vnto Moses saying, speake vnto the Children of Israell</hi> thus or thus &amp;c. He doth not bid <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> give this Command to all the Children of men, to be observ<g ref="char:EOLhyphen"/>ed in all ages, in all places and by all Nations <hi>Jews</hi> and <hi>Gen<g ref="char:EOLhyphen"/>tles;</hi> Nay, if this could be made appeare by those those that Challenge tithes from <hi>Gentiles</hi> Churches, the Controversie would soone be ended.</p>
+            <p>Secondly, And in the next place (haveing before consider<g ref="char:EOLhyphen"/>ed of the <hi>extent</hi> of Gods Command as it relates to <hi>time, place</hi> and <hi>person</hi>) I offer to consideration the <hi>extent</hi> of Gods <hi>Donation</hi> or graunt wherevpon the lawfull takeing &amp; receiveing tithes was also grounded; And that is to be considered with like circum<g ref="char:EOLhyphen"/>stances; which as to <hi>time</hi> and <hi>Place</hi> is limitted as the former. And if any man whatsoever can produce the warrant of Divine Authoritie, for asking, taking or receiving (much less enforce<g ref="char:EOLhyphen"/>ing) tithes in any other <hi>Place</hi> then in the land of <hi>Canaan,</hi> of any other <hi>People</hi> then of the <hi>Israelites</hi> then let me beare the blame and Shame for disobeying.</p>
+            <p>And this I further observe, That God reserving tithes from the Eleaven tribes, Graunted it over to the tribe of <hi>Levie</hi> not <hi>ab<g ref="char:EOLhyphen"/>solutely</hi> but <hi>conditionally;</hi> allowing them a Competancy for themselves and enjoyneing them by the same Authority to ad<g ref="char:EOLhyphen"/>mitte of severall Sharers with them of each two yeares tith, the <hi>owner</hi> was to eate a Share his <hi>Sonn</hi> and <hi>Daughter,</hi> his <hi>man Servant and Maid Servant</hi> as appears in <hi>Devt:</hi> 12.17. and eighteenth verses. And in every third yeares tith, the <hi>Stranger Fatherless</hi> and <hi>Widdow</hi> were to be admitted Sharers as appeares <hi>Deut:</hi> 14.28.29. verses. And <hi>Deut:</hi> 26 12.13. verses. So that by the afore mentioned Scriptures it's plainely manifest, That the <hi>own<g ref="char:EOLhyphen"/>er and his Family the Stranger Fatherless and Widowes</hi> are by divine
+<pb n="7" facs="tcp:207865:5"/> appointment as truly vested in the right of tythes, as any <hi>Levite</hi> whatsoever.</p>
+            <p>The nex thing remarkable is, <hi>The just and equall consideration</hi> wherevpon both the Command for paying and the graunt or warrant for receiveing tythes was grounded. Where by the way it is to be noted, That the seed of <hi>Abraham</hi> (on whom the land of <hi>Canaan</hi> was entailed by promise above five hundred yeares before) was by this time Multiplyed into twelve nume<g ref="char:EOLhyphen"/>rouse tribes, all which were travelling to possesse the land. And every Tribe in point of Common interrest was equally intitu<g ref="char:EOLhyphen"/>led to an Inheritance, vntill God in his Divine wisdom sepe<g ref="char:EOLhyphen"/>rated the tribe of <hi>Levie</hi> for the Service of himselfe to give attendance at the tabernacle, and to Minister before him in the Sanctuary; And to the end they might the better Attend his service, he promised himselfe to be their portion and Inheri<g ref="char:EOLhyphen"/>tance; and therevpon <hi>by a perpetuall Statute law deprived them of an Inheritance in the land</hi> Numbers 18. vers the 20. <hi>And the Lord spake unto</hi> Aron, <hi>Thou shalt have noe Inheritance in their Land, nei<g ref="char:EOLhyphen"/>ther shalt thou have any parte among them, I am thy part and thine Inheritance among the Children of</hi> Israell &amp;c. And in further com<g ref="char:EOLhyphen"/>pensation of their loss &amp; recompence of their Service, he graun<g ref="char:EOLhyphen"/>ted them tythes for an Inheritance as vers 21. <hi>And behould I have given the Children of</hi> Levie <hi>all the tenth in</hi> Israell <hi>for an Inhe<g ref="char:EOLhyphen"/>ritance, for their service which they serve, even the service of the Ta<g ref="char:EOLhyphen"/>bernacle of the Congregation</hi> &amp;c.</p>
+            <p>By all which, and severall other Scriptures it appeares That both the Command for paying &amp; the warrant for receiv<g ref="char:EOLunhyphen"/>ing tythes was founded upon a most rationall, Just, and equal <hi>consideration;</hi> both as it related to the advantage of the payer and the losse of the receiver; For though the <hi>Levites</hi> did receive a yearely tenth of the encrease, they lost the <hi>Inheritance</hi> of A twelfth for ever. And therefore well might the eleaven tribes aford to pay their tenthes and be noe loosers; it being but a rea<g ref="char:EOLhyphen"/>sonable <hi>exchange</hi> or <hi>purchase</hi> to give their Brethren a yearely
+<pb n="8" facs="tcp:207865:6"/> tenth, for the free Inheritance of a twelfth for ever.</p>
+            <p>Secondly, If tythes be due by the the Law of God, and pay<g ref="char:EOLhyphen"/>able and receiveable vnder the second Covenant, as vnder the first (as the Clergie do affirme they are) Then certainely they must allow that they are to be <hi>applied to the same vses</hi> for which they first were Instituted; and that was not only to the <hi>Levites</hi> but to the <hi>Stranger Fatherlesse</hi> and <hi>Widdow.</hi>
+            </p>
+            <p>Thirdly, among the <hi>Jewes</hi> Tythes were payable to the <hi>Levites</hi> who did the Common service of the Tabernacle and Temple, and not to the Sonnes of <hi>Aron</hi> the Preists, for they had only a tenth part of the tyth, And therefore they that claime tyth by the Law of <hi>Moses,</hi> must prove (if they can) how the payment of tythes to Preists now doth duly answer the payment of tythes To <hi>Levites</hi> then who were no Preists, nor were to touch or me<g ref="char:EOLhyphen"/>dle with the holy office least they dyed Numb: 4 15. to vers 19.</p>
+            <p>Fourthly, Tythes vnder the first Covenant were the <hi>Levites</hi> wages for the <hi>Ceremoniall</hi> work they were appointed to do about the first Tab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rnacle <hi>Numb:</hi> 18. vers 21.31, which work is now <hi>abollished;</hi> So then the wages therefore of that Ceremoniall work must with all be abolished as being also <hi>Ceremoniall.</hi>
+            </p>
+            <p>Fifthly, That tythes was <hi>Ceremoniall</hi> is vndeniablie manifest, they not being given but on this expresse condition, <hi>viz</hi> (first) to offer <hi>an heave Offering of them to the Lord,</hi> Numb: 18. from <hi>v.</hi> 21.8. to 31. Then necessarily it follows, That who over by that Law brings Tythes into the Gospell (which is the Minist<g ref="char:EOLhyphen"/>ration of the new Covenant) vnavoydably bringes in there with<g ref="char:EOLhyphen"/>all <hi>A Sacrifice, and an Altar</hi> without which tythes were by that Law <hi>vnsanctified and poluted</hi> vers 32, and so makes void the one offering which was the Substance, Christ Iesus who was typi<g ref="char:EOLhyphen"/>fied and shadowed forth, both by Tabernacle Sacrifice and Altar.</p>
+            <p>Sixthly, If tythes be due by the Law of God to Ministers vn<g ref="char:EOLhyphen"/>der the Gospell, as they were to the <hi>Levites</hi> vnder the Leviticall Preisthood Then are such Ministers by the same Law <hi>deprived
+<pb n="9" facs="tcp:207865:6"/> Ipso, facto,</hi> of all pretences of tymes to any temporall inheri<g ref="char:EOLhyphen"/>tance <hi>numb:</hi> 18: <hi>vers</hi> 20. And by the same Law, those that pay them tythe may as Justly claime a title of Inheritance in their free lands as they may claime an Annuall tenth of the others in<g ref="char:EOLhyphen"/>crease.</p>
+            <p>Seventhly, Among the <hi>Jews</hi> noe Rigorouse outward Law or penalty of tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble damage or Imprisonment was appointed to recover tythes by, nor was the Magistrate authorized or war<g ref="char:EOLhyphen"/>ranted by the Law of God to force the payment of them, much less to Imprison for refusall or neglect, but he that did not pay robed God and by him alone was to be punished.</p>
+            <p>Eightly, When the <hi>levites</hi> Preist-hood was changed by the Comeing of Christ Iesus, the law for tything was also changed, as the Apostle witn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sseth <hi>Heb.</hi> 7. vers 12. for (saith hee) <hi>the Preist-hood being changed, there is made a necessitie of a Change also of the law.</hi> And this was the Iudgment also of the Pri<g ref="char:EOLhyphen"/>mitive Church, And if the most learned Rabbies in the Nati<g ref="char:EOLhyphen"/>on can prove the contrary, let them come forth &amp; shew if they be able, <hi>when, where</hi> and by <hi>whom</hi> tithes were received or payd for above three hundred yeares after Christs Assention.</p>
+            <p>The next thing that falls vnder consideration is, how <hi>incon<g ref="char:EOLhyphen"/>sistant</hi> and <hi>disagreeable the</hi> Practice of tything of the Clergie of this Generation is with the Law of God vpon which they say it is grounded.</p>
+            <p>And first (as I have formerly hinted) Gods Ordinance for tything related only to the land of <hi>Canaan,</hi> which was confirm<g ref="char:EOLhyphen"/>ed by the Practice of the <hi>Jews</hi> and the Contrary whereof hath never yet appeared; nor have I ever found that dureing their captivity they payd or received Tythes in <hi>Babylon or Cal<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ca,</hi> be<g ref="char:EOLhyphen"/>fore Christs time, neither have they since, in <hi>Holland, Jermany, Poland,</hi> or elswhere that I can learne. And if this be so, then certainly for Christians to hold vp tythes, when <hi>Jews</hi> have layd them down, seemes very obsurd preposterouse and vaine.</p>
+            <p>Secondly, The <hi>levites</hi> graunt or warrant for the takeing ty<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hes
+<pb n="10" facs="tcp:207865:7"/> by Gods appointment, Extended only to their <hi>Brethren</hi> the <hi>Isra<g ref="char:EOLhyphen"/>elites,</hi> Gods only peculier people and Christ; not to <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dolaters, Forrainers</hi> or <hi>fals-Worshipers.</hi> Of any other Nation or Religion, nor to poor laborers, fatherlesse or Widows of their own Ge<g ref="char:EOLhyphen"/>nerations. But only such as had possessions of Free Inheritance.</p>
+            <p>But the Clergie of this Generation not contented (as the <hi>Le<g ref="char:EOLhyphen"/>vites</hi> were) to have their tything limitted by Gods allowance (vnto those only of the same <hi>Religion</hi> and <hi>Profession</hi> with them<g ref="char:EOLhyphen"/>selves without distinction, or definition of <hi>Nation</hi> or <hi>Religion,</hi> They Extend their claime to all the Decimall gaine within their Quarters, and all the Inhabitants they their finde (whether <hi>English,</hi> or <hi>Jrish, Protestants</hi> or <hi>Papists</hi> true or falce worshippers it matters not to them, or whether they are <hi>Rich</hi> or <hi>poor, Fatherless or Widowes bound or Free</hi>) If they are Possest of oug<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t that yeildes Increase, whether Corne or Garden, Cowes or Sheepe, Piggs, Geese or Henns or Egges) whether little or much, all is by th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m accounted lyable to Decimation; And moreover many Poor la<g ref="char:EOLhyphen"/>boring men that have not any liveing tythable thinge where of to pay, But get their Bread by hard and toylesome labour have <hi>Impositions taxed</hi> on them by the Clergie under the name of <hi>hand Money Apron Money</hi> and the like, which in my Iudgment hath more Affinitie with <hi>Pharoah Task-Masters</hi> then <hi>leviticall</hi> Tythes; For to exact a Tything rate upon Poor laborers &amp; such as have noe tithable substance in the world whereof to pay<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? what is this lesse then to make Bricke when Straw is taken away.</p>
+            <p>Thirdly, the <hi>levites</hi> had noe power to seize their Brethrens Corne before it was devided (nor was it their Practice by what appeares in Scripture. But Patiently attended vntill it was sett out and delivered both unto them &amp; their copartners <hi>Deut:</hi> 14. <hi>vers</hi> 28. But the Clergie of this age (contrary to their exam<g ref="char:EOLhyphen"/>ple) either by themselves or Prockters many times have entred Mens Corne feilds and other Places with Clubes and Staves, <hi>vi et armis,</hi> takeing away what they pleased in their Masters names by force and violence, as bad or worse then those Sinfull Sonnes
+<pb n="11" facs="tcp:207865:7"/> of <hi>Elie</hi> 1. <hi>Sam,</hi> 2.12. who by their abusive Servants Seized their pretended Preistly due by force, whereby the offering of the Lord became abhored &amp; truly this very practice makes many as much to abhor their message, for the avarice of its Mini<g ref="char:EOLhyphen"/>sters, and that about that thing which they pretend to be the offerring of the Lord.</p>
+            <p>Fourthly, The <hi>Levites</hi> had the tythes made over to them partly in <hi>compensation</hi> of their <hi>inheritance in land,</hi> And Partly in <hi>consideration</hi> of their service and Attendance at the Tabernacle (as before is shewed) <hi>Numb:</hi> 18. <hi>verses</hi> 23.24. wherewith they were contented and Murmered not, although their shares of land was given from them, and they to vndergoe a perpetu<g ref="char:EOLhyphen"/>all law of <hi>deprivation.</hi> Neither was there any Tribe or family bound to pay them tyth, but such as were obliged by a <hi>valuable consideration</hi> so to do, (as being vested according to proportion more or less) in part of their <hi>inheritance</hi> of land; So that he that payd his tyth by Gods appointment bad this fourefold benefit or advantage by it. First By the Paying of the Annuall tenth of his Increase, he had the <hi>Free-Simple</hi> of a Twelfth to him and his for ever. Secondly, By the payment of tyth the <hi>Stranger Fatherless</hi> and <hi>Widow</hi> were provided for, which otherwise must have been relieved at his Cost. Thirdly He had the <hi>Priviledge for himselfe and family</hi> to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate a parte thereof <hi>Deut:</hi> 12.18. And fourthly he had the benefit of the <hi>Levites</hi> service about the Tabernacle and Temple in assisting about the Sacrifice as 2. <hi>Cron;</hi> 35.11. and other services pertaining therevnto.</p>
+            <p>But what <hi>advantage, priviledge</hi> or <hi>benefit,</hi> have the people of this age by paying Tythes? will the <hi>Clergie</hi> of this Generation allow the Priviledge to their Maintainers and admit of so many Sharers with them as the <hi>Levites</hi> did, and were bound to do by Gods Commandments? What Clergin an will be content to release his claime to Lands and Tennements, and suffer his tem<g ref="char:EOLhyphen"/>porall Inheritance to be devided amongst those of whom he Claimeth Tythes? And do the <hi>Clergie</hi> now admit the <hi>Poor</hi> the
+<pb n="12" facs="tcp:207865:8"/>
+               <hi>Fatherlesse</hi> and <hi>Widowes</hi> (who had as good Right by Gods Com<g ref="char:EOLhyphen"/>mand as any <hi>Levite</hi> had) to Share with them in Tythes?</p>
+            <p>Or do they not rather multiplie the <hi>Poor</hi> by their <hi>oppressions?</hi> and make the <hi>Fatherless</hi> &amp; <hi>Widows</hi> cry to the Lord against them? And if the owner should but give a part of his Tythes to relieve the <hi>Poor</hi> and needy (as by Gods law the <hi>Israllites</hi> was bound to do) would not the <hi>Parish Preist</hi> be ready to devoure him for so doing, and never leave pursueing him vntill he had him to <hi>prison</hi> for it? Surely if this be so (as multiplied instances have con<g ref="char:EOLhyphen"/>firmed it is) This is far differrent from the Practice of the <hi>Le<g ref="char:EOLhyphen"/>vites,</hi> and rather suites with the Practice of those <hi>erronious Pro<g ref="char:EOLhyphen"/>phets</hi> which the Lord complaines of <hi>Micah:</hi> 3. <hi>vers</hi> 5. <hi>who made his people err, who did bite with the teeth and cry peace, and be that put not into their Mouthes they prepared warr against him.</hi>
+            </p>
+            <p>Fifthly, I find that the Lord by the Mouth of <hi>Moses</hi> in <hi>Deut:</hi> 12.17. and 18 verses (to every person concerned in paying tyth) Speaketh on this wise saying, <hi>Thou mayest not eate within thy gates, the tyth of thy Corne or of thy Wine, or of thy Oyle &amp;c. But vers</hi> 18. <hi>Thou must eat them before the Lord thy God, in the place which the Lord thy God shall Chuse; Thou and thy Sonn and thy Daughter, thy man Servant and thy maid Servant, and the</hi> Levite <hi>that is within thy gates &amp;c.</hi> And againe in <hi>Deut:</hi> 14.22 23 <hi>verses</hi> it is thus writ<g ref="char:EOLhyphen"/>ten, <hi>Thou shalt truly tith all the Increase of thy seed which thy feild bringeth forth yeare by yeare, And thou shalt eat before the Lord thy God in the place which he shall chuse to place his name there, the Tyth of thy Corne, and o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy Wyne, and of thy Oyle &amp;c.</hi> And verses 24.25.26. <hi>And if the way be too long for thee &amp;. Or if the place be too farr from thee &amp;c. Then thou shalt turne it into money &amp;c. And thou shalt bestowe that money &amp;c. For Oxen or for Sheep, for wine or for strong drink, or whatsoever thy soule desireth, and thou shalt eat there before the Lord thy God, THOU AND THY HOUSEHOULD. And vers</hi> 27. <hi>and the Levite that is within thy Gates thou shalt not forsake him &amp;c.</hi> From which foresited Scriptures, these naturall Inferren<g ref="char:EOLhyphen"/>ecs do vndenyably flow. <hi>viz.</hi>
+            </p>
+            <pb n="13" facs="tcp:207865:8"/>
+            <p>First, That as the <hi>owner</hi> of the tith was <hi>bound by Gods Command</hi> to divide it from the Rest, So was <hi>hee</hi> only by Gods appointment the Cheife disposer of it.</p>
+            <p>Secondly, As the <hi>owner</hi> was the Cheife disposer, so was it in his free and Arbitrary Choise (in some Cases) whether he would pay it in Kinde or not.</p>
+            <p>Thirdly, And if he pay it not in kinde, <hi>he</hi> was only <hi>intrusted</hi> with the selling of it, or to turne it into money at his own vallu<g ref="char:EOLhyphen"/>ation.</p>
+            <p>Fourthly, When <hi>he</hi> had sould it or turned it into money it was at <hi>his</hi> free and voluntary Choise in what <hi>provision</hi> he would bestow that Money in, whether <hi>Oxen Sheep Wine</hi> or <hi>Strong drink,</hi> or whatsoever his soule desired.</p>
+            <p>Fifthly, Howsoever he pay it whether in kinde or value <hi>both he,</hi> his <hi>Children,</hi> and <hi>servants</hi> were <hi>strictly</hi> and <hi>indispenceably bound</hi> to eat a part thereof.</p>
+            <p>Sixthly, It had b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en as manifest a breach of Gods Command if <hi>he and his household</hi> had not eaten of it, as if he had denyed to sett it out or pay it.</p>
+            <p>Seaventhly, And lastly as the <hi>owner</hi> and his househould were to eate a part, so was the <hi>Levite,</hi> by the same Command to be a partner with them. And this was the manner of tithing every Two yeares together, But in the Third yeares tything the <hi>own<g ref="char:EOLhyphen"/>er</hi> had no such strict Command <hi>to eat,</hi> yet he was still the <hi>Cheife disposer</hi> of it, and was to lay it up within his gates, and thither the <hi>Levite the stranger the Fatherlesse and Widow</hi> were to Come and every one to eate and be satisfied, as may appeare verses 28. and 29.</p>
+            <p>But the practice of the <hi>Clergie,</hi> and people of this age is so manifestly differrent here from, that I need not multiply words to sett it forth; for the <hi>Clergie</hi> now a dayes require the Husband<g ref="char:EOLhyphen"/>man to pay his tythes in Kinde, or else compound and pay them money for it (not owneing or allowing that the husbandman himselfe (or any of his, hath right to any part of it, And if he
+<pb n="14" facs="tcp:207865:9"/> do not pay the vtmost shilling or shillings worth, then frequent<g ref="char:EOLhyphen"/>ly he is in pleaded for the same, and made to pay it by <hi>force</hi> or suffer for it.</p>
+            <p>And here me thinks arises a very weighty <hi>case of conscience</hi> which I propose to the <hi>Clergie</hi> to resolve.</p>
+            <p>If it be a <hi>sinfull</hi> thing (as they affirme it is) for a man to pay noe tyth, since the payment of it was once enjoynde by Gods Command? Whether st is not <hi>as sinfull</hi> for a man to part with all his tyth, since God hath Commanded, That both <hi>he and his househould</hi> should eat a part thereof.</p>
+            <p>Secondly, If there be no <hi>dispensation</hi> for me and my freindes called <hi>Quakers</hi> (being but few in a Countrey) to pay noe tythes because God did Command it by <hi>Moses</hi> to be payd? who shall <hi>absolve</hi> the whole Nations for paying all their tythes, so direct<g ref="char:EOLhyphen"/>ly contrary to Gods Command as I have shewed? from <hi>Deut:</hi> 12.17.78. verses</p>
+            <p>Thirdly If the seers have been so Quick-sighted and piously watchfull over the flock that they would not suffer one of a thousand to Err on the one hand by paying noe tyth; have not such been horribly blinded and darkned by Averice, who have caused the whole Nations to sinn on the other hand by parting with all their tythes?</p>
+            <p>In the next place I observe that the <hi>Levites</hi> were the <hi>Twelfth</hi> Tribe in <hi>Israell</hi> to whom being Added the <hi>Stranger fatheless</hi> and <hi>Widow,</hi> could not in likelyhood but make up a full <hi>tenth</hi> Part of the whole <hi>Nation,</hi> so that the Eleaven Tribes paying a yearly tenth of their <hi>Increase,</hi> a <hi>tenth</hi> part of their people w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re there<g ref="char:EOLhyphen"/>by maintained and that very <hi>plentifully</hi> too; as may appeare at large. 2. <hi>Chro:</hi> 31.7.8.9.10. verses. Where the Cheif Preist declared to the King, <hi>they had enough to eat and left plenty, and that which remaineth</hi> (said hee) <hi>is this great store</hi> &amp;c.</p>
+            <p>But the <hi>Clergie</hi> of these last tymes and of this age (though I must confesse the more is the Pitty) are too many more then are good (Yet) I beleive are scarce the <hi>hundred part</hi> of the People of
+<pb n="15" facs="tcp:207865:9"/> these Nations; who neither admiting <hi>Fatherless or Widows Poor or Rich</hi> (as the <hi>Levits</hi> did) to be partakers with them, can make a shift to devoure the tenth of our Increase, and yet are never well contented neither. For albeit they allwayes were possest of tythes in kinde or value, besides Oblations, Offer<g ref="char:EOLhyphen"/>ings, Sprinkle-ing money and the like, with Severall other petty customes fees and perquisites; Yet what a continuall <hi>flattering croaking</hi> and <hi>craveing</hi> they allwayes kept to the seve<g ref="char:EOLhyphen"/>rall powers formerly in being, for <hi>Augmentations, Stipenes</hi> and <hi>Additions,</hi> &amp;c. Amongst the number of which <hi>clamorouse Pentioners,</hi> I never heard the voice of one <hi>contented Hezekiah,</hi> so much as once to say <hi>we have enough,</hi> 2, <hi>Chron:</hi> 81, 10. vers,</p>
+            <p>But rather like the daughter of the <hi>Horse-leech</hi> still crying Give, give, <hi>Prov.</hi> 30.15. or like the <hi>Grave,</hi> the <hi>Barren wombe</hi> or <hi>thirsty Earth,</hi> allwayes swallowing &amp; never saying it is enough.</p>
+            <p>Moreover I finde that tything of Corne and Graine by Gods Cōmand (as to the <hi>materiall</hi> and <hi>substantiall</hi> part thereof) was limitted and related only to <hi>increase,</hi> And as to the <hi>practick</hi> part (relateing to the manner and forme) it was to be done in <hi>seed</hi> as may more at large appeare by the Command it selfe, <hi>Deut:</hi> 14.12. vers, <hi>Thou shalt truly tith all the Increase of thy Seed which the feild bringeth forth yeare by yeare &amp;c. From</hi> whence these naturall inferrences doe arise, First that the husbandman him<g ref="char:EOLhyphen"/>selfe must tyth his Corne, Secondly he must tyth in <hi>Seed</hi> and not in <hi>Shease.</hi> Thirdly he must only tyth the <hi>Increase</hi> of his <hi>seed</hi> Fourthly He must truly tyth <hi>all the Increase</hi> (that is) he must take the exact tenth part of the <hi>Increase,</hi> and neither less nor more. And fifthly if there were noe <hi>Increase</hi> noe tyth was due or payable.</p>
+            <p>But the <hi>Clergie</hi> of this Generation minding more there owne gaine then Gods Command enforce the Countryman to tyth his Corne in <hi>Sheafe</hi> and not in <hi>seed,</hi> whereby they take as well a tenth part of the Farmers <hi>Stock and substance</hi> as a tenth of his <hi>Increase,</hi> Nay more for though the Farmer somtimes <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:207865:10"/>
+               <hi>Reape</hi> halfe the vallue of what he Sowed, the Parish Preist will have a tenth of what he <hi>Reapeth,</hi> whereby a most Insensible and vnsufferrable mischiefe doth ensue. And therefore haveing very breifly, and truly opened the afore mentioned Text of Scriptures, I shall endeavour In <hi>Love</hi> and <hi>Pitty</hi> to the wrong<g ref="char:EOLhyphen"/>ed Countryman. In a vse of Information to Applie it.</p>
+            <p>In order then to the more perfect vnderstanding of his <hi>proper Interest,</hi> the Husbandman that thinks he is bound to pay his tyth by Gods Command, must needes (if he be wise) observe this Rule, <hi>Allwayes to put a differrence betweene his Reall Stock, &amp; Reall profitt,</hi> betweene the Principall and the product or <hi>Increase</hi> els by confounding both together he knows not how he getts or how he looses, As thus (for instance) if the Husbandman doe Sowe Tenn barrells of Wheat at seed tyme, which is worth <hi>Tenn poundes;</hi> he must remember that his <hi>principall Stocke and Substance is tenn poundes less in value by what he hath cast into the ground,</hi> And when the harvest Comes, he must also minde to thresh out so much wheat, as the full Quantity of what he Sowed, that so his Stock may be <hi>Reprized and made good againe,</hi> and haveing thus donn That which remaines of Over-plus is cleare <hi>Increase,</hi> and out of the <hi>Increase</hi> of <hi>Seed</hi> was tyth by Gods apointment to be paid, as I have shewed before,</p>
+            <p>But by the <hi>Clergies</hi> forceing men to tyth in <hi>Sheafe</hi> against the order of Gods Command for tything a most Insufferable Incon<g ref="char:EOLhyphen"/>veniency doth ensue (as I have said) for by this meanes the <hi>Clergie</hi> do not only take a yearly tenth of mens <hi>Increase</hi> but of theire <hi>principall Stock and Substance also;</hi> whereby the <hi>substance</hi> of the husbandman becomes lyable to a perpetuall Consuma<g ref="char:EOLhyphen"/>tion by Decrimation; so that by vndeniable Instances it may be made appeare That if a Farmer Imploy a hundred poundes in Tillage and pursue the same for seaven yeares together, at seaven yeares end the <hi>Parish-Preist</hi> to whom he payes his tyth in <hi>Sheafe,</hi> will have above <hi>Fiftie poundes</hi> of the Farmers principall Stock into his hands by Tything. Besides the full tenth part of his <hi>Increase.</hi>
+            </p>
+            <pb n="17" facs="tcp:207865:10"/>
+            <p>And hence it is that many an able Farmer comes to want, &amp; poverty over-takes him as an armed man, and he knowes not who hath hurt him, But somtimes blames his Landlord and thinkes he hath too hard a bargaine; or otherwise faults his Servants, and the like, but thinkes not of his <hi>Master</hi> who suckes away his Substance most insensably, and makes him pay so deare a Rate to feede his Soule, That he hath nothing left to feede his body.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>THe Errors that have escaped the Press by want of due Cor<g ref="char:EOLhyphen"/>rection, and placeing of Comaes and other points, the Reader is desired to passe by, And the other Errors to Recti<g ref="char:EOLhyphen"/>fie thus, In Page 4. line 2. for desireing reade denying, line 24. for I Read In, Page, 9. line 1. for Tithes Read Tytle, pa. 10. line 2. for Christ Read Church,</p>
+         </div>
+      </back>
+   </text>
+</TEI>
